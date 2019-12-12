@@ -1,5 +1,6 @@
 # DEMO Project readme
 This is a modification
-
-
-I hope this isn't much issue.
+<<<<<<< HEAD
+=======
+This is bound to cause trouble
+>>>>>>> very-bad
